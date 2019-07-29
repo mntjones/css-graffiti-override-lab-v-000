@@ -11,10 +11,10 @@
 
 #wall .parent #tag-5 .slick {display: none;}
 
- #wall .parent div:last-child #tag-6 {
+#wall .parent div:last-child #tag-6 {
   display: none;
 }
 
- #wall .parent div:first-child >div #tag-7 .slick {
+#wall .parent div:first-child >div #tag-7 .slick {
   display: none;
 }
